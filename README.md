@@ -1,12 +1,7 @@
 <div align="center">
 <h1 align="center">Hi There, I´m Ismael👋</h1>
 </div>
-<img src="https://i.imgur.com/Wskj8cn.jpeg">
-
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
-[![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
-[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
-![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
+<img src="">
 
 ## Sobre mi
 
@@ -20,9 +15,9 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">titulo de proyecto</h3>
+<h3 align="center">GATO ENCERRADO</h3>
 <div align="center">
-<a href="" target="_blank"><img src="" width="400" alt=""></a>
+<a href="https://itorgardev.itch.io/gato-encerrado" target="_blank"><img src="https://imgur.com/a/zitPwtV" width="400" alt=""></a>
 <p>
 <a href="" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -44,7 +39,7 @@
 
 <p align="center">
 <a href="https://github.com/itorgarDev">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=itorgarDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=itorgarDev&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
