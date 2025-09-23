@@ -17,12 +17,13 @@
 <td width="50%">
 <h3 align="center">GATO ENCERRADO</h3>
 <div align="center">
-<a href="https://itorgardev.itch.io/gato-encerrado" target="_blank"><img src="https://imgur.com/a/zitPwtV" width="400" alt=""></a>
+<a href="https://itorgardev.itch.io/gato-encerrado" target="_blank"><img src="https://i.postimg.cc/9Mg8jysV/Screenshot-2025-09-22-220245.png" width="400" alt="">
+</a>
 <p>
-<a href="" target="_blank">
+<a href="https://itorgardev.itch.io/gato-encerrado" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/vJapzH_46a8" target="_blank">
+<a href="" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
