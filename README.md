@@ -30,7 +30,7 @@
   <tr>
     <!-- Proyecto 1 -->
     <td width="50%">
-      <h3 align="center"> 🐱GATO ENCERRADO🐱</h3>
+      <h3 align="center"> 🐼 BARUN´S JOURNEY 🐼 </h3>
       <div align="center">
         <a href="https://itorgardev.itch.io/gato-encerrado" target="_blank">
           <img src="https://i.postimg.cc/fWtnRbC5/Ljn8VA.png" width="400" alt="Captura del juego Gato Encerrado">
