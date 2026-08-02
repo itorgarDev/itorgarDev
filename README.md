@@ -32,8 +32,8 @@
     <td width="50%">
       <h3 align="center"> 🐼 BARUN´S JOURNEY 🐼 </h3>
       <div align="center">
-        <a href="https://itorgardev.itch.io/gato-encerrado" target="_blank">
-          <img src="https://i.postimg.cc/fWtnRbC5/Ljn8VA.png" width="400" alt="Captura del juego Gato Encerrado">
+        <a href="https://itorgardev.itch.io/baruns-journey" target="_blank">
+          <img src="https://i.postimg.cc/63h2FDWb/Captura-de-pantalla-2026-08-02-030855.png" width="400" alt="Captura del juego pr2">
         </a>
         <p>
           <a href="https://itorgardev.itch.io" target="_blank">
@@ -43,9 +43,9 @@
             <img src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white">
           </a>
           </p>
-          <p align="center"> En este juego de <strong> Puzles 3D </strong><br> 
-          deberás resolver los misterios en tu camino<br>
-          ¿Serás capaz de descubrir el misterio?
+          <p align="center"> En este juego de <strong> Acción y Aventuras </strong><br> 
+          deberás restaurar la paz en el mundo<br>
+          ¿Serás capaz de restaurar el talismán?
           </p> 
         </div>
     </td>
