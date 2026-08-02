@@ -51,10 +51,10 @@
     </td>
   <!-- Proyecto 2 -->
       <td width="50%">
-        <h3 align="center">🧠 NUEVO PROYECTO</h3>
+        <h3 align="center"> 🎲 KIRIKI ONLINE 🎲 </h3>
         <div align="center">
-          <a href="https://itorgardev.itch.io/nuevo-proyecto" target="_blank">
-            <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjhmZm9ybmY4dzFxMDcxcGZjeXc2M3d4OHNkOXBkdGR2bHYyZjU5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nXf7yRHNGFPMOV79uz/giphy.gif" width="400"/>
+          <a href="https://itorgardev.itch.io/kiriki-online" target="_blank">
+            <img src="https://i.postimg.cc/ZnGSHqkk/Captura-de-pan023229.png" width="400"/>
           </a>
           <p>
             <a href="https://itorgardev.itch.io" target="_blank">
@@ -65,10 +65,9 @@
             </a>
           </p>
           <p align="center">
-            <small>
-              Descripción breve del segundo proyecto.<br>
-              Puedes personalizarla como quieras.
-            </small>
+            En este juego de <strong> Multijugador por Turnos </strong><br> 
+          deberás engañar a tus amigos sacando la mejor tirada<br>
+          ¿Estará la suerte de tu lado?
           </p>
         </div>
       </td>
