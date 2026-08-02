@@ -22,6 +22,7 @@
 - 🎮 Videogame developer
 - 🎓 Student at Universidad de Burgos
 - 💻 Coding in C# with Unity
+- 💻 Coding with blueprints in Unreal Engine 5
 - 🧊 3D modeling & animation in Blender
 <br>
 
