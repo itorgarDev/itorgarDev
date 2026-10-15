@@ -41,7 +41,7 @@
           <a href="https://itorgardev.itch.io" target="_blank">
             <img src="https://img.shields.io/badge/-Itch.io-red?style=for-the-badge&logo=itchdotio&logoColor=white">
           </a>
-          <a href="https://youtu.be/-rkLgAVXarg" target="_blank">
+          <a href="https://www.youtube.com/watch?v=SCD21gDAgLM&t=4s" target="_blank">
             <img src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white">
           </a>
           </p>
