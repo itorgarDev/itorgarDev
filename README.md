@@ -62,9 +62,6 @@
             <a href="https://itorgardev.itch.io" target="_blank">
               <img src="https://img.shields.io/badge/-Itch.io-red?style=for-the-badge&logo=itchdotio&logoColor=white">
             </a>
-            <a href="https://youtube.com/tuvideo" target="_blank">
-              <img src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white">
-            </a>
           </p>
           <p align="center">
             En este juego de <strong> Multijugador por Turnos </strong><br> 
